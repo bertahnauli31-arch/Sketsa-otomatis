@@ -20,6 +20,12 @@ Cukup **load gambar**, arahkan kursor ke kanvas Paint, lalu tekan **Start** → 
 - **PyAutoGUI** → kontrol mouse
 
 ---
+## 📷 Demo
+
+Berikut contoh hasil program:
+
+![Demo Auto Paint](demo1.png)
+
 
 ## 🚀 Cara Instalasi
 1. Clone repository:
